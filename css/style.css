@@ -422,8 +422,7 @@ body {
 
   .dropdown{
   	/*position: absolute; */
-    top: 50%;
-    transform: translateY(-50%);
+
     z-index: 10;
     /* margin-bottom: 0px; */
     /* width: 90%; */
