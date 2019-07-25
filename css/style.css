@@ -577,3 +577,18 @@ body {
 
   	}
   }
+
+
+  .protest-number{
+	font-size: 10px;
+    background: #121212;
+    color: #fff;
+    padding: 5px 10px;
+	margin-left: 10px;
+	
+
+	position: relative;
+	top: -8px;
+	
+	
+  }
